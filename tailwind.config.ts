@@ -13,6 +13,9 @@ const config: Config = {
           primary: '#252A41',
           secondary: '#1C1F2E',
         },
+        blue: {
+          primary: '#0E78F9',
+        },
         background: 'var(--background)',
         foreground: 'var(--foreground)',
       },
