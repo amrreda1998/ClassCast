@@ -34,8 +34,8 @@ const MobileNav = () => {
           <Link href="/" className="flex items-center gap-1">
             <Image
               src="/icons/logo.svg"
-              width={36}
-              height={36}
+              width={32}
+              height={32}
               alt="Class Cast logo"
             />
             <p className="text-[26px] font-extrabold text-white">Class Cast</p>
