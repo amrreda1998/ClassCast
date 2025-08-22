@@ -10,7 +10,7 @@ import { isRouteActive } from '@/lib/utils/helperFunctions';
 function Sidebar() {
   const pathName = usePathname();
   return (
-    <section className="sticky left-0 top-0 flex h-screen w-fit flex-col  justify-between  bg-dark-primary p-6 pt-28 text-white max-sm:hidden lg:w-[264px]">
+    <section className="sticky left-0 top-0 flex h-screen w-fit flex-col  justify-between  bg-dark-primary p-6 pt-28 text-white max-sm:hidden lg:w-[264px] border border-red-100">
       {/* <Image
         src="icons/class-cast-logo.svg"
         alt="ClassCast LOGO "
